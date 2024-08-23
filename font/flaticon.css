@@ -1,0 +1,44 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("flaticon%EF%B9%96ab0c18a0c042c76c5b6d9a09748edddc.ttf") format("truetype"),
+url("flaticon%EF%B9%96ab0c18a0c042c76c5b6d9a09748edddc.woff") format("woff"),
+url("flaticon%EF%B9%96ab0c18a0c042c76c5b6d9a09748edddc.woff2") format("woff2"),
+url("flaticon%EF%B9%96ab0c18a0c042c76c5b6d9a09748edddc.eot#iefix") format("embedded-opentype"),
+url("flaticon.svg%EF%B9%96ab0c18a0c042c76c5b6d9a09748edddc.html#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-heart:before {
+    content: "\f101";
+}
+.flaticon-compare:before {
+    content: "\f102";
+}
+.flaticon-share:before {
+    content: "\f103";
+}
+.flaticon-bed:before {
+    content: "\f104";
+}
+.flaticon-bathtub:before {
+    content: "\f105";
+}
+.flaticon-square:before {
+    content: "\f106";
+}
+.flaticon-car:before {
+    content: "\f107";
+}
+.flaticon-calendario:before {
+    content: "\f108";
+}
